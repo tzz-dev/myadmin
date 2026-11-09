@@ -1,0 +1,6 @@
+MyAdmin.xcodeproj
+xcuserdata/
+DerivedData/
+build/
+.build/
+MyAdmin/Info.plist
